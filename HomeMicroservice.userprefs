@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{91BB6A96-95A3-4498-9E65-EBCE9C92229D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Startup.cs" Line="27" Column="42" />
+      <File FileName="Program.cs" Line="23" Column="26" />
+      <File FileName="Controllers/AttendanceController.cs" Line="102" Column="44" />
+      <File FileName="appsettings.json" Line="13" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Paul/Desktop/Projects/HomeMicroservice/Controllers/AttendanceController.cs" relfile="Controllers/AttendanceController.cs" line="76" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Controllers/AttendanceController.cs" line="33" offsetX="494" offsetY="480" expression="Name" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HomeMicroservice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

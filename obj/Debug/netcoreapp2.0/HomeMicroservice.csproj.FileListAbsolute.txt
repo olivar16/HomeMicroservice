@@ -1,0 +1,11 @@
+/Users/Paul/Desktop/Projects/HomeMicroservice/bin/Debug/netcoreapp2.0/HomeMicroservice.deps.json
+/Users/Paul/Desktop/Projects/HomeMicroservice/bin/Debug/netcoreapp2.0/HomeMicroservice.runtimeconfig.json
+/Users/Paul/Desktop/Projects/HomeMicroservice/bin/Debug/netcoreapp2.0/HomeMicroservice.runtimeconfig.dev.json
+/Users/Paul/Desktop/Projects/HomeMicroservice/bin/Debug/netcoreapp2.0/HomeMicroservice.dll
+/Users/Paul/Desktop/Projects/HomeMicroservice/bin/Debug/netcoreapp2.0/HomeMicroservice.pdb
+/Users/Paul/Desktop/Projects/HomeMicroservice/obj/Debug/netcoreapp2.0/HomeMicroservice.csprojResolveAssemblyReference.cache
+/Users/Paul/Desktop/Projects/HomeMicroservice/obj/Debug/netcoreapp2.0/HomeMicroservice.csproj.CoreCompileInputs.cache
+/Users/Paul/Desktop/Projects/HomeMicroservice/obj/Debug/netcoreapp2.0/HomeMicroservice.AssemblyInfoInputs.cache
+/Users/Paul/Desktop/Projects/HomeMicroservice/obj/Debug/netcoreapp2.0/HomeMicroservice.AssemblyInfo.cs
+/Users/Paul/Desktop/Projects/HomeMicroservice/obj/Debug/netcoreapp2.0/HomeMicroservice.dll
+/Users/Paul/Desktop/Projects/HomeMicroservice/obj/Debug/netcoreapp2.0/HomeMicroservice.pdb
